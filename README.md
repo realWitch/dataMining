@@ -1,0 +1,2 @@
+# dataMining
+tugas data mining
